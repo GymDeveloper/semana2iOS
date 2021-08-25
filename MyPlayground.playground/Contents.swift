@@ -35,10 +35,12 @@ print("Mi variable es \(stringName) \(stringLastName) \(charX)")
 
 // Unicode
 let heart = "\u{0001f497}"
+// numberOne = 🥳
 let 🥸 = 10
 let 🥺 = 10
-print(🥸 + 🥺)
+let 🤒 = 5
 
+//
 // Tipos de alias
 // Tipos String, Int, Float, Double
 // String => Text
